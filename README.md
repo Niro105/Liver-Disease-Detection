@@ -1,4 +1,5 @@
 # Liver Disease Detection Project
+![Liver-Disease-scaled](https://github.com/Niro105/Liver-Disease-Detection/assets/126443419/c5e252a0-3089-4924-9a45-7ef38f67d6c8)
 In this project, we used the Liver Patient Records dataset.
 The objective of this project is to predict the risk of liver disease in individuals. It uses machine learning algorithms to predict the likelihood of a person developing liver disease based on health records.
 Ultimately, the combination of clinical, laboratory and machine learning algorithms can be used to assess the risk of Liver Disease in individuals, and help to provide personalized interventions to help reduce the risk.
