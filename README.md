@@ -7,3 +7,4 @@ Ultimately, the combination of clinical, laboratory and machine learning algorit
 # Dataset
 Dataset consist of 615 patient records with 13 variable that potentially impact wheather someone has liver disease. These variables include age, gender,bilirubin, albumin, alanine aminotransferase, and proteins, etc.
 There is one column name Category it has few status like no disease, suspect disease, hepatitis, fibrosis and cirrhosis.
+![Screenshot 2024-07-11 231509](https://github.com/Niro105/Liver-Disease-Detection/assets/126443419/3adf7036-28a3-4e1d-935c-b4b0aba65997)
